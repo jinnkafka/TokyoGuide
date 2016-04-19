@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Hama Rikyu</string>
+		<key>website</key>
+		<string>https://teien.tokyo-park.or.jp/en/hama-rikyu/</string>
+		<key>image</key>
+		<string>hr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tokyo National Museum</string>
+		<key>website</key>
+		<string>http://www.tnm.jp/?lang=en</string>
+		<key>image</key>
+		<string>tnm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tokyo Skytree</string>
+		<key>website</key>
+		<string>https://www.tokyo-skytree.jp/en/</string>
+		<key>image</key>
+		<string>ts</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shibuya</string>
+		<key>website</key>
+		<string>https://www.japan-guide.com/e/e3007.html</string>
+		<key>image</key>
+		<string>sb</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Odaiba</string>
+		<key>website</key>
+		<string>http://www.japan-guide.com/e/e3008.html</string>
+		<key>image</key>
+		<string>od</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Takaosan</string>
+		<key>website</key>
+		<string>https://www.japan-guide.com/e/e3029.html</string>
+		<key>image</key>
+		<string>tks</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sensoji Temple</string>
+		<key>website</key>
+		<string>https://www.senso-ji.jp/about/index_e.html</string>
+		<key>image</key>
+		<string>ssj</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tsukiji Fish Market</string>
+		<key>website</key>
+		<string>https://www.tsukiji-market.or.jp/tukiji_e.htm</string>
+		<key>image</key>
+		<string>fm</string>
+	</dict>
+</array>
+</plist>
